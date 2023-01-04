@@ -58,3 +58,9 @@ In this article I have discussed about grid in css
 
 [LINK IS HERE](https://supe.hashnode.dev/grid-in-css)
 ---
+Article 10
+---
+In this article I have discussed about Media queries in css
+
+[LINK IS HERE](https://supe.hashnode.dev/media-queries)
+---
